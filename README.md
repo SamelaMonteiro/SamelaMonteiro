@@ -1,7 +1,7 @@
 
 <h2 align="center">👋 Olá! Eu sou Sâmela.</h2
 
- Bem-vindo ao meu perfil! Sou estudante da Linguagem Python, aprendendo e praticando Análise de Dados com a Linguagem Python e R. Sei um pouco de JavaScript, HTML5 e CSS3.Trabalho utilizando a ferramenta Jupyter Notebook.Obrigada pela visita e adoraria [conectar](https://www.linkedin.com/in/sâmela-carvalho-7b2764219/)!
+ Bem-vindo ao meu perfil! Sou estudante da Linguagem Python, aprendendo e praticando Análise e Visualização de Dados com a Linguagem Python e R. Sei um pouco de JavaScript, HTML5 e CSS3.Trabalho utilizando a ferramenta Jupyter Notebook.Obrigada pela visita e adoraria [conectar](https://www.linkedin.com/in/sâmela-carvalho-7b2764219/)!
 
 
 - :pencil2: Atualmente estou a procura de uma vaga. Estou aprendendo e praticando **Análise de Dados com a Linguagem Python e R**
